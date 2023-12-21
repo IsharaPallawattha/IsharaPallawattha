@@ -14,3 +14,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isharapallawattha&show_icons=true&locale=en&layout=compact" alt="isharapallawattha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isharapallawattha&show_icons=true&locale=en" alt="isharapallawattha" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isharapallawattha&" alt="isharapallawattha" /></p>
