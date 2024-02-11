@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishara Pallawattha</h1>
 <h3 align="center">A an Undergraduate Student from Sri Lanka</h3>
 
-- 🔭 I’m currently working on ["Synthia" - An AI Chatbot for Mental Health][https://github.com/Synthia-Org]
+- 🔭 I’m currently working on ["Synthia" - An AI Chatbot for Mental Health]([https://github.com/Synthia-Org])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
